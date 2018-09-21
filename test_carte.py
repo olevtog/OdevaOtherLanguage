@@ -3,7 +3,6 @@
 
 import unittest
 from carte import Carte
-from mockito import *
 
 class TestCarte(unittest.TestCase):
 
