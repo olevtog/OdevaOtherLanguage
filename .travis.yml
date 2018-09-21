@@ -2,7 +2,7 @@ language: python
 python:
   - "3.6"
 intall:
-  - pip install mockito
+  - pip install -r mockito
 script:
   - pytest
   
